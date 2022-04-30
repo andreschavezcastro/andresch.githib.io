@@ -1,2 +1,2 @@
-# andresch.githib.io
+# andresch.github.io
 Website
